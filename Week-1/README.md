@@ -1,5 +1,5 @@
 # DjangoProject
-## Day-1
+## Week-1
 
 This project is to create a fully functional website created using Django. This project is created in Ubuntu.
 
