@@ -101,9 +101,6 @@ and define the functions which is required to return the template to the user in
   ```
 In the above case, `accounts` is the name of the app we created.
 
-# DjangoProject
-## Day-3 
-
 ## Templates
 A template is a text file. It can generate any text-based format (HTML, XML, CSV, etc.).
 A template contains variables, which get replaced with values when the template is evaluated, and tags, which control the logic of the template.
