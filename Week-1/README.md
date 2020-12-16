@@ -1,8 +1,5 @@
 # DjangoProject
 ## Week-1
-
-This project is to create a fully functional website created using Django. This project is created in Ubuntu.
-
 ## Django
 Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. 
 Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
