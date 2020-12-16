@@ -46,9 +46,18 @@ Create a Django project using the following command:
  ```
   $ django-admin startproject project_name
  ```
-
+## Create a virtual environment
+In the project directory, create a virtual environment isolated from the global python environment. 
+```
+$ virtualenv python3
+```
+## Activate the virtual environment
+The virtual environment should be activated before testing the web app.
+```
+$ source python3/bin/activate
+```
 ## Run the project
-In the project directory
+In the project directory with the virtual environment in active state,
  ```
   $ python3 manage.py runserver
  ```
